@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.work-sans-font {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+main {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgba(255, 144, 14, 0.1);
+    padding-top: 0px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    /* padding-left: 60px; */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_links {
+    display: flex;
+    justify-content: center;
+}
+
+
+.nav_items {
+    list-style: none;
+    /* gap: 1rem; */
+    margin-right: 30px;
+    /* padding-right: 8rem; */
+}
+
+.in {
+    padding-right: 6.5rem;
+
+}
+
+.link {
+    text-decoration: none;
+
+
+}
+
+.brandd {
+    padding-left: 5.5rem;
+    font-size: 3rem;
+}
+
+.brand {
+    text-align: center;
+}
+
+.btn {
+    width: 180px;
+    height: 64px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+
+    background-color: rgb(255, 144, 14);
+    border-radius: 8px;
+}
+
+.jon3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 5px;
+
+
+}
+
+@media screen and (max-width:576px) {
+
+    .navbar,
+    .navbar {
+        flex-direction: column;
+
+    }
+
+}
+
+.team4 {
+
+    /* display: flex; */
+    /* justify-items: flex-start; */
+    /* gap: px;
+    padding-top: 50px;
+    padding-left: 50px; */
+
+
+    /* padding-left: 50px; */
+}
+
+.section {
+    padding-top: 50px;
+    padding-left: 160px;
+}
+
+.sec2 {
+    display: flex;
+    justify-items: center;
+}
+
+.paser {
+    /* text-align: center; */
+    padding-top: 200px;
+    padding-left: 50px;
+}
+
+.Quick {
+    font-weight: 300;
+    color: rgb(114, 114, 114);
+
+}
+
+.of {
+    font-weight: 800;
+    color:
+        rgb(19, 19, 19);
+}
+
+.Features {
+    font-weight: 1000;
+    color: rgb(255, 144, 14);
+    /* text-decoration-color: rgb(255, 144, 14); */
+
+}
+
+.There {
+    color: rgb(114, 114, 114);
+}
+
+.bor {
+
+    /* border-block-start: 10px rgb(255, 144, 14) solid; */
+    border-left: 5px solid rgb(255, 144, 14);
+    padding-left: 150px;
+    /* margin-right: auto; */
+}
+
+.you {
+    padding-left: 20px;
+}
+
+.first_feature {
+    padding-left: 150px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    width: 586px;
+    height: 171px;
+    background: rgb(255, 255, 255);
+}
+
+.girl {
+    display: flex;
+}
+
+
+
+.some {
+    padding-left: 150px;
+}
+
+.border {
+    border: 2px solid rgb(255, 144, 14);
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.facts {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.aw {
+    text-align: center;
+}
+
+.pic {
+    padding-left: 150px;
+    ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top: 30px;
+    padding-bottom: 0px;
+
+}
+
+.spon {
+    text-align: center;
+
+}
+
+.spon_pic {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 90px;
+}
+
+.rights {
+    margin-top: 40px;
+    padding-top: 35px;
+    border-radius: 8px;
+    background: rgb(255, 244, 231);
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(66, 66, 66);
+
+    height: 50px;
+    text-align: center;
+}
